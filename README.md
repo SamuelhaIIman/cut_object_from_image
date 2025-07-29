@@ -1,0 +1,1 @@
+# cut_object_from_image
